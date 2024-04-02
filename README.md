@@ -39,15 +39,7 @@ The dataset used for this project is not included in this repository due to its 
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Soumya Pednekar
 
 ## Acknowledgments
-
-- Special thanks to the UCI Machine Learning Repository and Kaggle for providing datasets related to diabetes.
 - Inspiration and guidance from various online tutorials and resources.
